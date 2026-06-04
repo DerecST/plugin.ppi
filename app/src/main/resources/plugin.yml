@@ -1,0 +1,4 @@
+name: PickPlayerItem
+version: '1.0.0'
+main: ppi.main
+api-version: '26.1'
